@@ -1,0 +1,105 @@
+# Environment variables and secrets
+.env
+.env.*
+*.env
+credentials.json
+secrets.json
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+profile_default/
+ipython_config.py
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+.venv
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Data files (uncomment if you don't want to track data)
+# *.csv
+# *.json
+# *.xlsx
+# *.xls
+# *.db
+# *.sqlite
+# *.h5
+# *.hdf5
+# *.parquet
+
+# Model files (uncomment if you don't want to track models)
+# *.pkl
+# *.joblib
+# *.model
+# *.pt
+# *.pth
+# *.h5
+# *.keras
+# *.onnx
+# saved_models/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
