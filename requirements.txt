@@ -5,4 +5,4 @@ numpy>=1.20.0
 scikit-learn>=1.0.0
 scipy>=1.7.0
 openai>=1.0.0
-ember-sdk>=0.1.0
+goodfire

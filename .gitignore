@@ -43,6 +43,9 @@ ENV/
 env/
 venv/
 ENV/
+.v
+.v2
+.v3
 
 # Distribution / packaging
 .Python
